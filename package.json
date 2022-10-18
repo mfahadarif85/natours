@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Practice Node JS project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfahadarif85/natours.git"
+  },
+  "author": "MFA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfahadarif85/natours/issues"
+  },
+  "homepage": "https://github.com/mfahadarif85/natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
