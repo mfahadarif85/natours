@@ -13,7 +13,7 @@ mongoose
   .connect(DB, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    // useCreateIndex: true,
+    useCreateIndex: true,
     // useFindandModify: false,
   })
   .then(() => console.log('DB connection successful!'));
